@@ -1,0 +1,26 @@
+canvas{
+    background:blueviolet;
+    border:5px solid black;
+    border-radius:10px;
+    box-shadow:5px 5px 5px grey;
+}
+
+body{
+    background-size: cover;
+}
+
+.heading{
+font-size: 23px;
+margin: 0px;
+width:100%;
+}
+
+.note{
+    font-size: 15px;
+    color:black;
+}
+
+#playm{
+    font-size: 20px;
+    width:150px;
+}
